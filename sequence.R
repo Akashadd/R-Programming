@@ -1,0 +1,6 @@
+a<-seq(20,50)
+b<-mean(seq(20,60))
+c<-sum(seq(51,91))
+cat<-("sequence from 20 to 50:,a")
+cat<-("mean from 20 to 60:,b")
+cat<-("sum from 51 to 91:,c")
