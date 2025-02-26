@@ -1,0 +1,5 @@
+array1 <- matrix(1:9, nrow=3, byrow=TRUE)
+array2 <- matrix(10:18, nrow=3, byrow=TRUE)
+array3 <- matrix(19:27, nrow=3, byrow=TRUE)
+combined_array <- rbind(array1, array2, array3)
+print(combined_array)
