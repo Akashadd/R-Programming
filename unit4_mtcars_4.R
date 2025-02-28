@@ -1,0 +1,1 @@
+mean_mpg <- mean(mtcars$mpg)
